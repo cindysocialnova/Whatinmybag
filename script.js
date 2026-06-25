@@ -20,10 +20,10 @@ const heroData = {
 const splitData = [
   {
     type: 'left',
-    image: ' /Users/noname/vs code -landing website html js css/images/email mockup.png',
+    image: 'images/email mockup.png',
     alt: 'Beauty Statute Product',
     title: 'About Me!',
-    description: 'Marketing professional with experience in social media marketing, analytics, and search optimization. I love combine data and branding to create a unipe and dythimic marketing campging .',
+    description: 'Marketing professional with experience in social media marketing, analytics, and search optimization. I love combine data and branding to create a unipe and dythimic marketing campgi[...]',
     buttonText: 'See My Work',
     buttonLink: '#work-four-target'
   },
@@ -32,7 +32,7 @@ const splitData = [
     image: 'images/email mockup1.png',
     alt: 'Product Image',
     title: 'Services',
-    description: 'I bridge the gap between creative strategy and data analytics to build high-converting content pipelines, ensuring compelling visual storytelling and a cohesive brand presence across Instagram, Facebook, LinkedIn, and TikTok.',
+    description: 'I bridge the gap between creative strategy and data analytics to build high-converting content pipelines, ensuring compelling visual storytelling and a cohesive brand presence across[...]',
     buttonText: 'Book Me',
     buttonLink: ' https://cindyrmarketing.setmore.com/cindyr'
   }
