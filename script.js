@@ -42,25 +42,25 @@ const workFourData = [
   { 
     title: 'Pixe Vintage ', 
     desc: 'Design & Social Media ', 
-    img: 'images/WORK COVER/10.png',
+    img: '10.png',
     link: 'https://cafelovelatte.my.canva.site/portfolio-girls-' 
   },
   { 
     title: 'Luxe & Co', 
     desc: 'Design & Social Media', 
-    img: 'images/WORK COVER/3.png',
+    img: '3.png',
     link: 'https://theedit.my.canva.site/luxeandco' 
   },
   { 
     title: 'Social Nova', 
     desc: 'Data Analaytics', 
-    img: 'images/WORK COVER/9.png',
+    img: '9.png',
     link: 'https://datastudio.google.com/s/hg9OTuedWmI'
   },
   { 
     title: 'Luxe & Co', 
     desc: 'Data Analaytics.', 
-    img: 'images/WORK COVER/2.png',
+    img: '2.png',
     link: 'https://medium.com/@Cindy.R/case-study-luxe-co-facebook-follower-retention-analysis-4ddaad2d37a3' 
   }
 ];
@@ -68,13 +68,13 @@ const workFourData = [
 
 const whatInMyBagData = {
   title: "What's In My Tool Bag?",
-  bagImage: 'images/whatinmypurseanimation/Bag.png',
+  bagImage: 'Bag.png',
   items: [
-    { src: 'images/whats in my bag/1.png', alt: 'Item 2' }, // Fixed local path
-    { src: 'images/whats in my bag/2.png', alt: 'Item 3' }, // Fixed local path
-    { src: 'images/whatinmypurseanimation/4.png', alt: 'Item 4' },
-    { src: 'images/whats in my bag/4.png', alt: 'Item 5' },
-    { src: 'images/whatinmypurseanimation/3.png', alt: 'Item 6' }
+    { src: '1.png', alt: 'Item 1' },
+    { src: '2.png', alt: 'Item 2' },
+    { src: '4.png', alt: 'Item 3' },
+    { src: '5.png', alt: 'Item 4' },
+    { src: '6.png', alt: 'Item 5' }
   ]
 };
 
