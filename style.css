@@ -192,6 +192,8 @@ main {
   background-position: center;  /* Centers the image */
   background-repeat: no-repeat;
   background-attachment: fixed;
+  Background-image: url('hotpink.png');
+
   z-index: 2;
 } /* Fixed: Added missing closing bracket */
 
